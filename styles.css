@@ -1,18 +1,17 @@
 body {
   background-image: url("https://yt3.ggpht.com/a/AGF-l7-kB1DSup2jwYiQKal_Wny4nJVo4u2mWQIjSA=s288-c-k-c0xffffffff-no-rj-mo");
   background-repeat: repeat;
+  padding: 20px;
 }
 
 h1 {
-  color: blue;
+  color: white;
   font-family: "Comic Sans MS", cursive, serif;
   font-size: 50px;
   border: dashed;
 }
 
-body {
-  padding: 20px;
-}
+
 
 button {
   margin-top: 20px;
